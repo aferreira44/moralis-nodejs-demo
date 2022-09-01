@@ -6,7 +6,7 @@ https://docs.moralis.io/docs/nodejs-dapp-from-scratch
 
 `yarn dev`
 
-## How to run locally
+## How to run
 
 `yarn start`
 
