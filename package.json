@@ -2,5 +2,9 @@
   "name": "moralis-nodejs-demo",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moralis": "^2.2.0"
+  }
 }
