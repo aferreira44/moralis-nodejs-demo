@@ -2,6 +2,13 @@
 
 https://docs.moralis.io/docs/nodejs-dapp-from-scratch
 
+## How to run locally
+
+`yarn dev`
+
+## How to run locally
+
+`yarn start`
 
 ## Useful Links
 
